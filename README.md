@@ -1,2 +1,2 @@
-# ReactBoilerplate
-This is boilerplate code for producing an SPA React App
+# rental-finder
+Help find ideal rental homes on zillow
